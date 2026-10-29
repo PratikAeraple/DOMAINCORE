@@ -1,0 +1,10 @@
+{
+  "id": "domaincore",
+  "title": "DOMAINCORE",
+  "hostname": "domaincore.brutehack.com",
+  "hostnames": [
+    "domaincore.brutehack.com"
+  ],
+  "status": "portfolio demonstration",
+  "health_identity": "domaincore-ready"
+}
